@@ -8,7 +8,6 @@ terraform {
 }
 
 provider "google" {
-
   project = "hackathon-6aso-grupo-03"
   region  = "us-west1"
   zone    = "us-west1-b"
